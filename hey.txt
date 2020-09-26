@@ -1,2 +1,10 @@
 yo
 this is slavyan, hey there!
+git init
+ls -latr  проверка
+git add . or specified file
+git status  проверка за commit
+git commit -m "some message"
+git status
+git remote add origin "https link"
+git push origin master
